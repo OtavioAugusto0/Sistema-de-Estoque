@@ -1,10 +1,5 @@
-# Sistema-de-Estoque
-**Sistema de Gerenciamento de Estoque desenvolvido em Python e SQLite, com funcionalidades para adicionar, visualizar, atualizar e remover produtos.**
-
 # Sistema de Gerenciamento de Estoque
-
-Sistema simples de gerenciamento de estoque desenvolvido em Python
-com banco de dados SQLite.
+**Sistema de Gerenciamento de Estoque desenvolvido em Python e SQLite, com funcionalidades para adicionar, visualizar, atualizar e remover produtos.**
 
 ## Funcionalidades
 
